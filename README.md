@@ -1,5 +1,4 @@
-- 👋 Hi, My name is Andika, often called Emul.
-The school at SMKN 1 Cianjur wants to learn more about programming.
+👋 ​🇭​​🇮​, ​🇲​​🇾​ ​🇳​​🇦​​🇲​​🇪​ ​🇮​​🇸​ ​🇦​​🇳​​🇩​​🇮​​🇰​​🇦​, ​🇴​​🇫​​🇹​​🇪​​🇳​ ​🇨​​🇦​​🇱​​🇱​​🇪​​🇩​ ​🇪​​🇲​​🇺​​🇱​. ​🇹​​🇭​​🇪​ ​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​ ​🇦​​🇹​ ​🇸​​🇲​​🇰​​🇳​ 1️⃣ ​🇨​​🇮​​🇦​​🇳​​🇯​​🇺​​🇷​ ​🇼​​🇦​​🇳​​🇹​​🇸​ ​🇹​​🇴​ ​🇱​​🇪​​🇦​​🇷​​🇳​ ​🇲​​🇴​​🇷​​🇪​ ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇵​​🇷​​🇴​​🇬​​🇷​​🇦​​🇲​​🇲​​🇮​​🇳​​🇬​.
 
 <!---
 AndikaDzul/AndikaDzul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

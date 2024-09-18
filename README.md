@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AndikaDzul
-hi! My name is Andika, often called Emul.
+- 👋 Hi, My name is Andika, often called Emul.
 The school at SMKN 1 Cianjur wants to learn more about programming.
 
 <!---

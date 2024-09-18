@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Andika and I'm a ..., from .SMKN 1 CIANJUR...</h2>
+<h2Want to learn more about programming </h2>
 
 ###
 

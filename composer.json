@@ -1,0 +1,9 @@
+{
+    "name": "andika/buku_tamu",
+    "autoload": {
+        "psr-4": {
+            "Andika\\BukuTamu\\": "src/"
+        }
+    },
+    "require": {}
+}

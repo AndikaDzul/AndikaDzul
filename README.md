@@ -1,62 +1,264 @@
-<h2 align="left">Hi 👋! My name is Andika and I'm a ..., from .SMKN 1 CIANJUR to learn more about progamming...</h2> <h2Want to learn more about programming </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- #CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- #box icon -->
+    
+  <link rel="stylesheet"
+  href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  <!--remox icon-->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+<body>
+    
 
+<header>
+  <a href="#" class="logo">GAME<span>DEVELOPMENT.</span></a>
+  <div class="bx bx-menu" id="menu-icon"></div>
+  <ul class="navlist">
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#portfolio">Portfolio</a></li>
+    <li><a href="#contact">Contact</a></li>
 
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhzZ2xocjF5ZDN1ZTJ5MDgzOXA5MWt5Ymd6MjQzZnRpMjB1dnprYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1R1ZiUskINVOn6bz3/giphy.webp"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg" height="30" alt="clojurescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="30" alt="clojure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  </ul>
+<div class="top-btnn">
+  <a href="#" class="h-btn">Kontak Saya</a>
 </div>
 
-###
+</header>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+<section class="hero" id="home">
+<div class="main-content" data-aos="fade-in">
+  <h4>Hallo</h4>
+  <h1>I'm <span>M.ANDIKADZULFADILLAH</span></h1>
+  <p>ASAL SEKLOLAH SAYA SMKN 1 CIANJUR,SAYA SIAP MENJADI GAME DEVELOPMENT</p>
+<div class="social">
+  <a href="https://www.facebook.com/profile.php?id=100042793907185&mibextid=ZbWKwL"><i class="ri-facebook-fill"></i></a>
+  <a href="https://www.instagram.com/booodikkk16/profilecard/?igsh=bHF5MndoMDN6emho"><i class="ri-instagram-fill"></i></a>
+  
+  <a href="https://youtube.com/@dik4you434?si=1YGmcLGULSm4aF0a"><i class="ri-youtube-fill"></i></a>
+</div>
+<div class="main-btn">
+  <a href="https://open.spotify.com/user/31lz4ekrka63r3wiqii2z27jthy4?si=g8_LEc3eRb2ELOcucmO2HQ" class="btn">Hire me</a>
+  <a href="https://unity.com/download" class="btn btn2">Download CV</a>
 </div>
 
-###
+</div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31lz4ekrka63r3wiqii2z27jthy4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lz4ekrka63r3wiqii2z27jthy4&count=5" alt="Spotify recently played"  />
+</section>
+
+<section class="about" id="about">
+  <div class="about-img" data-aos="zoom-in-down">
+    <img src="bodik.jpeg" >
+  </div>
+<div class="about-text" data-aos="zoom-in-up">
+  <h2>Keahlian Saya Desainer Produk
+    & Pengembang Game Web<span></span><br>
+  </h2>
+  <div class="exp-area">
+    <p class="exp">
+      Umur Saya
+      <span>17 Years</span>
+    </p>
+    
+    <p class="exp">
+      Keahlian:
+      <span>Desainer, DeveloperGame</span>
+    </p>
+    <p class="exp">
+      Tempat Tinggal: 
+      <span>Cianjur Jawa Barat</span>
+    </p>
+    
+    <p class="exp">
+      Email: 
+      <span>dika70287@gmail.com</span>
+    </p>
+    
+    <p class="exp">
+      Phone: 
+      <span>081322233928</span>
+    </p>
+
+    <p class="exp">
+      Hobi: 
+      <span>Gitar/Badminton</span>
+    </p>
+    
+    <p class="exp">
+     
+    </p>
+  </div>
+  <a href="#" class="btn">View All Projects</a>
+</div>
+
+</section>
+
+<section class="services" id="services">
+  <div class="center-text" data-aos="fade-down">
+    <h2>My <span>Services</span> </h2>
+  </div>
+  <div class="services-content" data-aos="zoom-in-up">
+
+    <div class="box">
+
+      <img src="unity.webp" width="330" height="500" alt="">
+      <h3>Unity</h3>
+      <p>Saya ingin memperdalam dalam aplikasi unity ini, saya suka membuat game </p>
+      <a href="#">Download Now
+ <i class="ri-arrow-right-line"></i>
+
+      </a>
+    </div>
+
+    <div class="box">
+
+        <img src="Andika.jpeg" width="330" height="500" alt="c:\Users\01\Downloads\gameQuiz(1)\gameQuiz.apk">
+      <h3>Project Saya</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde ipsam quam est ad placeat? Minus!</p>
+      <a href="#">Download Now
+ <i class="ri-arrow-right-line"></i>
+
+      </a>
+    </div>
+
+    <div class="box">
+
+      <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/04/spotify-feature-image.jpg" width="330" height="500" src="https://open.spotify.com/user/31lz4ekrka63r3wiqii2z27jthy4?si=g8_LEc3eRb2ELOcucmO2HQ">
+      <h3>spotify</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Unde ipsam quam est ad placeat? Minus!</p>
+      <a href="#">Download Now
+ <i class="https://open.spotify.com/user/31lz4ekrka63r3wiqii2z27jthy4?si=g8_LEc3eRb2ELOcucmO2HQ"></i>
+
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<section class="portfolio" id="portfolio">
+<div class="center-text" data-aos="fade-down">
+  <h2>My <span>Portfolio</span></h2>
+</div>
+
+<div class="Portfolio-content" data-aos="zoom-in-up">
+  <div class="row">
+    <img src="bukutamu.jpg" alt="">
+    <div class="main-row">
+      <div class="row-text">
+        <h5>BukuTamu</h5>
+      </div>
+      <div class="row-icon">
+<i class="ri-github-fill"></i>
+      </div>
+    </div>
+    <h4>Dengan adanya buku tamu dapat mencatat kehadiran</h4>
+  </div>
+  <div class="row">
+    <img src="tampilan_movie.png" alt="">
+    <div class="main-row">
+      <div class="row-text">
+        <h5>Tampilan card Film</h5>
+      </div>
+      <div class="row-icon">
+<i class="ri-github-fill"></i>
+      </div>
+    </div>
+    <h4>Website Development For Dark X</h4>
+  </div>
+  <div class="row">
+    <img src="ziefod.jpg" alt="">
+    <div class="main-row">
+      <div class="row-text">
+        <h5>ZieFood</h5>
+      </div>
+      <div class="row-icon">
+<i class="ri-github-fill"></i>
+      </div>
+    </div>
+    <h4>Website Development For Dark X</h4>
+  </div>
+  <div class="row">
+    <img src="./img/port-4.jpg" alt="">
+    <div class="main-row">
+      <div class="row-text">
+        <h5>Website Design</h5>
+      </div>
+      <div class="row-icon">
+<i class="ri-github-fill"></i>
+      </div>
+    </div>
+    <h4>Website Development For Dark X</h4>
+  </div>
+  <div class="row">
+    <img src="./img/port-5.jpg" alt="">
+    <div class="main-row">
+      <div class="row-text">
+        <h5>Website Design</h5>
+      </div>
+      <div class="row-icon">
+<i class="ri-github-fill"></i>
+      </div>
+    </div>
+    <h4>Website Development For Dark X</h4>
+  </div>
+  <div class="row">
+    <img src="./img/port-6.jpg" alt="">
+    <div class="main-row">
+      <div class="row-text">
+        <h5>Website Design</h5>
+      </div>
+      <div class="row-icon">
+<i class="ri-github-fill"></i>
+      </div>
+    </div>
+    <h4>Website Development For Dark X</h4>
+  </div>
+</div>
+
+</section>
+
+<section class="contact" id="contact">
+  <div class="center-text" data-aos="fade-down">
+    <h2>Contact<span>me</span></h2>
+  </div>
+  <div class="contact-form" data-aos="zoom-in">
+    <form action="">
+      <input type="text" placeholder="Your name" required>
+      <input type="email" placeholder="Email Address..." required>
+      <textarea name="" id="" cols="30" rows="10" placeholder="Write Message Here." required></textarea>
+      <input type="submit" value="Send Message" class="send-btn">
+    </form>
+  </div>
+</section>
+
+<div class="footer">
+  <div class="copyright">
+    <p>Selamat datang di portfolio saya semoga senang</p>
+  </div>
+  <a href="#home" class="scroll-top">
+    <i class="ri-arrow-up-s-fill"></i>
   </a>
 </div>
 
-###
+
+<script src="./script.js"></script>
+  
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+offset:300,
+duration:1400,
+  });
+</script>
+
+</body>
+</html>
